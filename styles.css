@@ -1,8 +1,12 @@
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 11px; text-align: center; margin-top: 100%;}
 .attribution a { color: hsl(228, 45%, 44%); }
 
 body {
     background-color: hsl(212, 45%, 89%);
+}
+
+.boxMargin{
+    padding-right: 37%;
 }
 
 .WhiteCircle{
