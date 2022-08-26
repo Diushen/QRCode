@@ -1,0 +1,38 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.WhiteCircle{
+    display: block;
+    background-color: white;
+    margin: 5% 35%;
+    border-radius: 25px;
+    padding-bottom: 10px;
+
+}
+
+.WhiteCircle p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+.text{
+    margin: 5% 5%;
+    text-align: center;
+}
+
+.SmallerCircle {
+    display: block;
+    text-align: center;
+    
+}
+
+#QRCode{
+    border-radius: 25px;
+    max-height: 90%;
+    max-width: 90%;
+    margin-top: 5%;
+}
